@@ -1,0 +1,6 @@
+Lst1 = [no.py]
+Lst2 = [yes.py]
+s1 = set(Lst1)
+s2 = set(Lst2)
+print s1.symmetric_difference(s2)
+print list(s1.symmetric_difference(s2))
