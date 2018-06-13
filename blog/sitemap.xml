@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2018-06-06T12:15:37-00:00</lastmod>
+<lastmod>2018-06-13T11:15:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2018-06-06T12:15:37-00:00</lastmod>
+<lastmod>2018-06-13T11:15:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2018-06-06T12:15:37-00:00</lastmod>
+<lastmod>2018-06-13T11:15:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2018-06-06T12:15:37-00:00</lastmod>
+<lastmod>2018-06-13T11:15:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2018-06-06T11:03:14+08:00</lastmod>
+<lastmod>2018-06-13T10:48:43+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,7 +95,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./author/40523248.html</loc>
+<loc>./author/40523231.html</loc>
 <lastmod>2018-05-23T12:03:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
